@@ -43,15 +43,15 @@
   2. Training set과 Test set (*학습 날짜: 2021.07.14, 정리: <https://blog.naver.com/woukl22/222431628757>*)
 
 **AI Learning 02: 머신러닝 모델 구현**
-  1. Linear Regression  (*학습 날짜: 2021.07.14 정리: <https://blog.naver.com/woukl22/222431889373>*)
-  2. Non-linear Regression  (*학습 날짜: 2021.07.15 정리: <https://blog.naver.com/woukl22/222433040162>*)
-  3. Linear Classification  (*학습 날짜: 2021.07.15 정리: <https://blog.naver.com/woukl22/222433042321>*)
-  4. Non-linear Classification  (*학습 날짜: 2021.07.15 정리: <https://blog.naver.com/woukl22/222433071787>*)
-  5. Unsupervised Learning의 개념 (*학습 날짜: 2021.07.15 정리: <https://blog.naver.com/woukl22/222433119816>*)
-  6. Autoencoders
+  1. Linear Regression  (*학습 날짜: 2021.07.14, 정리: <https://blog.naver.com/woukl22/222431889373>*)
+  2. Non-linear Regression  (*학습 날짜: 2021.07.15, 정리: <https://blog.naver.com/woukl22/222433040162>*)
+  3. Linear Classification  (*학습 날짜: 2021.07.15, 정리: <https://blog.naver.com/woukl22/222433042321>*)
+  4. Non-linear Classification  (*학습 날짜: 2021.07.15, 정리: <https://blog.naver.com/woukl22/222433071787>*)
+  5. Unsupervised Learning의 개념 (*학습 날짜: 2021.07.15, 정리: <https://blog.naver.com/woukl22/222433119816>*)
+  6. Autoencoders (*학습 날짜: 2021.07.16, 정리: <https://blog.naver.com/woukl22/222434022266>*)
 
 **AI Learning 03: 딥러닝 테크닉**
-  1. Hyperparameter tuning
+  1. Hyperparameter tuning (*학습 날짜: 2021.07.16~* )
   2. Overfitting 피하기
   3. Weight initialization
 
@@ -60,5 +60,10 @@
   2. CNN의 응용: Image classification
   3. RNN의 개념
   4. RNN의 응용: 글자 예측
+<br><br>
 
-____
+공부하면서 읽은 AI 관련 책
+---
+1. **인공지능과 딥러닝** *(마쓰오 유타카 / 동아엠앤비)*<br>
+  <img src="https://user-images.githubusercontent.com/69896250/125956678-d731c85b-98e7-4a3b-a12c-492ed51f65c1.jpeg" width="200px" height="290px"></img><br>
+  2021.07.15 ~ 
