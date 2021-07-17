@@ -51,8 +51,8 @@
   6. Autoencoders (*학습 날짜: 2021.07.16, 정리: <https://blog.naver.com/woukl22/222434022266>*)
 
 **AI Learning 03: 딥러닝 테크닉**
-  1. Hyperparameter tuning (*학습 날짜: 2021.07.16~* )
-  2. Overfitting 피하기
+  1. Hyperparameter tuning (*학습 날짜: 2021.07.16~2021.07.17, 정리: <https://blog.naver.com/woukl22/222435268179>* )
+  2. Overfitting 피하기 (*학습 날짜: 2021.07.17, 정리: <https://blog.naver.com/woukl22/222435376389>*)
   3. Weight initialization
 
 **AI Learning 04: CNN, RNN 원리**
