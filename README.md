@@ -53,10 +53,10 @@
 **AI Learning 03: 딥러닝 테크닉**
   1. Hyperparameter tuning (*학습 날짜: 2021.07.16~2021.07.17, 정리: <https://blog.naver.com/woukl22/222435268179>* )
   2. Overfitting 피하기 (*학습 날짜: 2021.07.17, 정리: <https://blog.naver.com/woukl22/222435376389>*)
-  3. Weight initialization
+  3. Weight initialization (*학습 날짜: 2021.07.18, 정리: <https://blog.naver.com/woukl22/222436149257>*)
 
 **AI Learning 04: CNN, RNN 원리**
-  1. CNN의 개념
+  1. CNN의 개념 (*학습 날짜: 2021.07.18, 정리: <https://blog.naver.com/woukl22/222436413699>*)
   2. CNN의 응용: Image classification
   3. RNN의 개념
   4. RNN의 응용: 글자 예측
