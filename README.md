@@ -57,7 +57,7 @@
 
 **AI Learning 04: CNN, RNN 원리**
   1. CNN의 개념 (*학습 날짜: 2021.07.18, 정리: <https://blog.naver.com/woukl22/222436413699>*)
-  2. CNN의 응용: Image classification
+  2. CNN의 응용: Image classification (*학습 날짜: 2021.07.19, 정리: <https://blog.naver.com/woukl22/222436910927>*)
   3. RNN의 개념
   4. RNN의 응용: 글자 예측
 <br><br>
