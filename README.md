@@ -41,6 +41,7 @@
 **AI Learning 01: 머신러닝/딥러닝 개념**
   1. 머신러닝의 개념 (*학습 날짜: 2021.07.14, 정리: <https://blog.naver.com/woukl22/222431616337>*)
   2. Training set과 Test set (*학습 날짜: 2021.07.14, 정리: <https://blog.naver.com/woukl22/222431628757>*)
+<br>
 
 **AI Learning 02: 머신러닝 모델 구현**
   1. Linear Regression  (*학습 날짜: 2021.07.14, 정리: <https://blog.naver.com/woukl22/222431889373>*)
@@ -49,21 +50,41 @@
   4. Non-linear Classification  (*학습 날짜: 2021.07.15, 정리: <https://blog.naver.com/woukl22/222433071787>*)
   5. Unsupervised Learning의 개념 (*학습 날짜: 2021.07.15, 정리: <https://blog.naver.com/woukl22/222433119816>*)
   6. Autoencoders (*학습 날짜: 2021.07.16, 정리: <https://blog.naver.com/woukl22/222434022266>*)
+<br>
 
 **AI Learning 03: 딥러닝 테크닉**
   1. Hyperparameter tuning (*학습 날짜: 2021.07.16~2021.07.17, 정리: <https://blog.naver.com/woukl22/222435268179>* )
   2. Overfitting 피하기 (*학습 날짜: 2021.07.17, 정리: <https://blog.naver.com/woukl22/222435376389>*)
   3. Weight initialization (*학습 날짜: 2021.07.18, 정리: <https://blog.naver.com/woukl22/222436149257>*)
+<br>
 
 **AI Learning 04: CNN, RNN 원리**
   1. CNN의 개념 (*학습 날짜: 2021.07.18, 정리: <https://blog.naver.com/woukl22/222436413699>*)
   2. CNN의 응용: Image classification (*학습 날짜: 2021.07.19, 정리: <https://blog.naver.com/woukl22/222436910927>*)
-  3. RNN의 개념
-  4. RNN의 응용: 글자 예측
+  3. RNN의 개념 (*학습 날짜: 2021.07.20, 정리: <https://blog.naver.com/woukl22/222438153778>*)
+  4. RNN의 응용: 글자 예측 (*학습 날짜: 2021.07.20, 정리: <https://blog.naver.com/woukl22/222438899658>*)
+<br>
+
+**AI Learning 05: AI 중급 1. 예측 모델 소개**
+  1. 강의 및 Dataset 소개
+  2. MLP(Multi-Layer Perception)_1
+  3. Decision Tree
+  4. Random Forest
+  5. Boosting
+  6. ML model deployment
+<br>
+
+**AI Learning 06: AI 중급 2. 데이터 분석 및 전처리**
+  1. EDA(Exploratory Data Analysis)
+  2. 데이터 전처리
 <br><br>
 
 공부하면서 읽은 AI 관련 책
 ---
 1. **인공지능과 딥러닝** *(마쓰오 유타카 / 동아엠앤비)*<br>
   <img src="https://user-images.githubusercontent.com/69896250/125956678-d731c85b-98e7-4a3b-a12c-492ed51f65c1.jpeg" width="200px" height="290px"></img><br>
-  2021.07.15 ~ 
+  2021.07.15 ~ 2021.07.20
+
+2. **머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로** *(세바스찬 라시카, 바히드 미자리리 / 길벗)*<br>
+  <img src="https://user-images.githubusercontent.com/69896250/126332650-f41658e2-caf3-444d-8a58-575f383755ec.png" width="200px" height="290px"></img><br>
+  2021.07.20 ~
