@@ -5,7 +5,7 @@
 
 강의를 듣게 된 이유
 ---
-'국방오픈소스아카데미'에서 해커톤에 참여하고 싶어 강의를 듣기 시작했다.<br>
+'[국방오픈소스아카데미](https://osam.kr/home)'에서 해커톤에 참여하고 싶어 강의를 듣기 시작했다.<br>
 'WEB', 'APP', 'IoT', 'Cloud/Infra', '인공지능' 다섯 가지 영역 중 'Cloud/Infra'와 '인공지능'에 끌렸다.<br>
 둘 중에서는 Cloud/Infra가 더 재미있어 보였지만, 리눅스를 군대에서 다룰 수 있을지 모르겠어서 인공지능을 먼저 공부하기로 했다.<br>
 인공지능을 다 공부한 뒤에 Cloud/Infra 수업도 들어보려고 한다.<br>
@@ -39,30 +39,30 @@
 강의 목록 및 진행상황
 ----
 **AI Learning 01: 머신러닝/딥러닝 개념**
-  1. 머신러닝의 개념 (*학습 날짜: 2021.07.14, 정리: <https://blog.naver.com/woukl22/222431616337>*)
-  2. Training set과 Test set (*학습 날짜: 2021.07.14, 정리: <https://blog.naver.com/woukl22/222431628757>*)
+  1. [머신러닝의 개념](https://blog.naver.com/woukl22/222431616337) (*학습 날짜: 2021.07.14*)
+  2. [Training set과 Test set](https://blog.naver.com/woukl22/222431628757) (*학습 날짜: 2021.07.14*)
 <br>
 
 **AI Learning 02: 머신러닝 모델 구현**
-  1. Linear Regression  (*학습 날짜: 2021.07.14, 정리: <https://blog.naver.com/woukl22/222431889373>*)
-  2. Non-linear Regression  (*학습 날짜: 2021.07.15, 정리: <https://blog.naver.com/woukl22/222433040162>*)
-  3. Linear Classification  (*학습 날짜: 2021.07.15, 정리: <https://blog.naver.com/woukl22/222433042321>*)
-  4. Non-linear Classification  (*학습 날짜: 2021.07.15, 정리: <https://blog.naver.com/woukl22/222433071787>*)
-  5. Unsupervised Learning의 개념 (*학습 날짜: 2021.07.15, 정리: <https://blog.naver.com/woukl22/222433119816>*)
-  6. Autoencoders (*학습 날짜: 2021.07.16, 정리: <https://blog.naver.com/woukl22/222434022266>*)
+  1. [Linear Regression](https://blog.naver.com/woukl22/222431889373) (*학습 날짜: 2021.07.14*)
+  2. [Non-linear Regression](https://blog.naver.com/woukl22/222433040162) (*학습 날짜: 2021.07.15*)
+  3. [Linear Classification](https://blog.naver.com/woukl22/222433042321) (*학습 날짜: 2021.07.15*)
+  4. [Non-linear Classification](https://blog.naver.com/woukl22/222433071787) (*학습 날짜: 2021.07.15*)
+  5. [Unsupervised Learning의 개념](https://blog.naver.com/woukl22/222433119816) (*학습 날짜: 2021.07.15*)
+  6. [Autoencoders](https://blog.naver.com/woukl22/222434022266) (*학습 날짜: 2021.07.16*)
 <br>
 
 **AI Learning 03: 딥러닝 테크닉**
-  1. Hyperparameter tuning (*학습 날짜: 2021.07.16~2021.07.17, 정리: <https://blog.naver.com/woukl22/222435268179>* )
-  2. Overfitting 피하기 (*학습 날짜: 2021.07.17, 정리: <https://blog.naver.com/woukl22/222435376389>*)
-  3. Weight initialization (*학습 날짜: 2021.07.18, 정리: <https://blog.naver.com/woukl22/222436149257>*)
+  1. [Hyperparameter tuning](https://blog.naver.com/woukl22/222435268179) (*학습 날짜: 2021.07.16~2021.07.17*)
+  2. [Overfitting 피하기](https://blog.naver.com/woukl22/222435376389) (*학습 날짜: 2021.07.17*)
+  3. [Weight initialization](https://blog.naver.com/woukl22/222436149257) (*학습 날짜: 2021.07.18*)
 <br>
 
 **AI Learning 04: CNN, RNN 원리**
-  1. CNN의 개념 (*학습 날짜: 2021.07.18, 정리: <https://blog.naver.com/woukl22/222436413699>*)
-  2. CNN의 응용: Image classification (*학습 날짜: 2021.07.19, 정리: <https://blog.naver.com/woukl22/222436910927>*)
-  3. RNN의 개념 (*학습 날짜: 2021.07.20, 정리: <https://blog.naver.com/woukl22/222438153778>*)
-  4. RNN의 응용: 글자 예측 (*학습 날짜: 2021.07.20, 정리: <https://blog.naver.com/woukl22/222438899658>*)
+  1. [CNN의 개념](https://blog.naver.com/woukl22/222436413699) (*학습 날짜: 2021.07.18*)
+  2. [CNN의 응용: Image classification](https://blog.naver.com/woukl22/222436910927) (*학습 날짜: 2021.07.19*)
+  3. [RNN의 개념](https://blog.naver.com/woukl22/222438153778) (*학습 날짜: 2021.07.20*)
+  4. [RNN의 응용: 글자 예측](https://blog.naver.com/woukl22/222438899658) (*학습 날짜: 2021.07.20*)
 <br>
 
 **AI Learning 05: AI 중급 1. 예측 모델 소개**
@@ -85,6 +85,7 @@
   <img src="https://user-images.githubusercontent.com/69896250/125956678-d731c85b-98e7-4a3b-a12c-492ed51f65c1.jpeg" width="200px" height="290px"></img><br>
   2021.07.15 ~ 2021.07.20
 
-2. **머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로** *(세바스찬 라시카, 바히드 미자리리 / 길벗)*<br>
+2. **[머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로](https://github.com/woukl22/MachineLearningStudy_PythonMachineLearning3rdEd)** *(세바스찬 라시카, 바히드 미자리리 / 길벗)*<br>
   <img src="https://user-images.githubusercontent.com/69896250/126332650-f41658e2-caf3-444d-8a58-575f383755ec.png" width="200px" height="290px"></img><br>
   2021.07.20 ~
+  
