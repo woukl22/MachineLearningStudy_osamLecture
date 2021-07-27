@@ -67,7 +67,7 @@
 
 **AI Learning 05: AI 중급 1. 예측 모델 소개**
   1. [강의 및 Dataset 소개](https://blog.naver.com/woukl22/222446677048) (*학습 날짜: 2021.07.26*)
-  2. MLP(Multi-Layer Perception)_1
+  2. [MLP(Multi-Layer Perception)](https://blog.naver.com/woukl22/222447084832) (*학습 날짜: 2021.07.27*)
   3. Decision Tree
   4. Random Forest
   5. Boosting
