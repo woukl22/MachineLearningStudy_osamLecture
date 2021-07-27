@@ -26,6 +26,13 @@
 - 공개SW의 이해
 
 **해커톤필수과정_인공지능분야**
+- AI 고급 3. 서비스 배포
+- AI 고급 2. 모델 배포 준비
+- AI 고급 1. 모델 학습 심화
+- AI 중급 4.학습 기법 및 종합평가
+- AI 중급 3.모델 학습 및 평가
+- AI 중급 2.데이터분석및전처리
+- AI 중급 1. 예측 모델 소개
 - CNN, RNN 원리
 - 딥러닝 테크닉
 - 머신러닝 모델 구현
@@ -68,16 +75,54 @@
 **AI Learning 05: AI 중급 1. 예측 모델 소개**
   1. [강의 및 Dataset 소개](https://blog.naver.com/woukl22/222446677048) (*학습 날짜: 2021.07.26*)
   2. [MLP(Multi-Layer Perception)](https://blog.naver.com/woukl22/222447084832) (*학습 날짜: 2021.07.27*)
-  3. Decision Tree
-  4. Random Forest
-  5. Boosting
+  3. [Decision Tree](https://blog.naver.com/woukl22/222447850435) (*학습 날짜: 2021.07.27*)
+  4. [Random Forest](https://blog.naver.com/woukl22/222447892923) (*학습 날짜: 2021.07.27*)
+  5. Boosting (*학습 날짜: 2021.07.27~*)
   6. ML model deployment
 <br>
 
 **AI Learning 06: AI 중급 2. 데이터 분석 및 전처리**
   1. EDA(Exploratory Data Analysis)
   2. 데이터 전처리
-<br><br>
+<br>
+
+**AI Learning 07: AI 중급 3. 모델 학습 및 평가**
+  1. Linear Regression
+  2. 모델 학습 1(MLP training(1))
+  3. 모델 학습 1(MLP training(2))
+  4. 모델 평가(Cross Validation)
+<br>
+
+**AI Learning 08: AI 중급 4. 학습 기법 및 종합평가**
+  1. 모델 학습 2(Decision Tree)
+  2. 모델 학습 3(Boosting)
+  3. 모델 종합 평가(Model Summary)
+<br>
+
+**AI Learning 09: AI 고급 1. 모델 학습 심화**
+  1. Hyperparameter Tuning
+  2. Model Stacking 1
+  3. Model Stacking 2
+  4. Model Quantization
+<br>
+
+**AI Learning 10: AI 고급 2. 모델 배포 준비**
+  1. ML 모델 배포 방식과 REST API에 대한 이해
+  2. Colab에서 Flask를 활용한 REST API 사용하기
+  3. 요청 페이지 개발
+  4. 응답을 위한 MLP 모델 학습
+  5. 응답 API 개발 - 데이터 전처리, 모델 예측
+<br>
+
+**AI Learning 11: AI 고급 3. 서비스 배포**
+  1. ML 서비스 배포하기 1
+  2. ML 서비스 배포하기 2 - Git
+  3. ML 서비스 배포하기 3 - Docker
+<br>
+
+**AI Learning 12: AI 고급 4. 현업에서의 프로젝트**
+  (제작중)
+ <br><br>
 
 공부하면서 읽은 AI 관련 책
 ---
