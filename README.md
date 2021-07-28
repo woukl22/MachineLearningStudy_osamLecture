@@ -32,13 +32,11 @@
 - AI 중급 4.학습 기법 및 종합평가
 - AI 중급 3.모델 학습 및 평가
 - AI 중급 2.데이터분석및전처리
-- AI 중급 1. 예측 모델 소개
-- CNN, RNN 원리
-- 딥러닝 테크닉
-- 머신러닝 모델 구현
-- 머신러닝/딥러닝 개념
-
-
+- ~~AI 중급 1. 예측 모델 소개~~
+- ~~CNN, RNN 원리~~
+- ~~딥러닝 테크닉~~
+- ~~머신러닝 모델 구현~~
+- ~~머신러닝/딥러닝 개념~~
 
 <br>
 
@@ -77,8 +75,8 @@
   2. [MLP(Multi-Layer Perception)](https://blog.naver.com/woukl22/222447084832) (*학습 날짜: 2021.07.27*)
   3. [Decision Tree](https://blog.naver.com/woukl22/222447850435) (*학습 날짜: 2021.07.27*)
   4. [Random Forest](https://blog.naver.com/woukl22/222447892923) (*학습 날짜: 2021.07.27*)
-  5. Boosting (*학습 날짜: 2021.07.27~*)
-  6. ML model deployment
+  5. [Boosting](https://blog.naver.com/woukl22/222448239825) (*학습 날짜: 2021.07.27~2021.07.28*)
+  6. [ML model deployment](https://blog.naver.com/woukl22/222448303933) (*학습 날짜: 2021.07.28*)
 <br>
 
 **AI Learning 06: AI 중급 2. 데이터 분석 및 전처리**
