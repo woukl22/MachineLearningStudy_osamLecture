@@ -80,8 +80,8 @@
 <br>
 
 **AI Learning 06: AI 중급 2. 데이터 분석 및 전처리**
-  1. EDA(Exploratory Data Analysis)
-  2. 데이터 전처리
+  1. [EDA(Exploratory Data Analysis)](https://blog.naver.com/woukl22/222449071067) (*학습 날짜: 2021.07.28*)
+  2. 데이터 전처리 (*학습 날짜: 2021.07.28~*)
 <br>
 
 **AI Learning 07: AI 중급 3. 모델 학습 및 평가**
