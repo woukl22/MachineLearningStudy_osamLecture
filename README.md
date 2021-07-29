@@ -85,7 +85,7 @@
 <br>
 
 **AI Learning 07: AI 중급 3. 모델 학습 및 평가**
-  1. Linear Regression
+  1. [Linear Regression](https://blog.naver.com/woukl22/222449976231) (*학습 날짜: 2021.07.29*)
   2. 모델 학습 1(MLP training(1))
   3. 모델 학습 1(MLP training(2))
   4. 모델 평가(Cross Validation)
