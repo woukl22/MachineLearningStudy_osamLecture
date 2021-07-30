@@ -30,7 +30,7 @@
 - AI 고급 2. 모델 배포 준비
 - AI 고급 1. 모델 학습 심화
 - AI 중급 4.학습 기법 및 종합평가
-- AI 중급 3.모델 학습 및 평가
+- ~~AI 중급 3.모델 학습 및 평가~~
 - ~~AI 중급 2.데이터분석및전처리~~
 - ~~AI 중급 1. 예측 모델 소개~~
 - ~~CNN, RNN 원리~~
@@ -88,7 +88,7 @@
   1. [Linear Regression](https://blog.naver.com/woukl22/222449976231) (*학습 날짜: 2021.07.29*)
   2. [모델 학습 1(MLP training(1))](https://blog.naver.com/woukl22/222450211480) (*학습 날짜: 2021.07.29*)
   3. [모델 학습 1(MLP training(2))](https://blog.naver.com/woukl22/222451228398) (*학습 날짜: 2021.07.29~2021.07.30*)
-  4. 모델 평가(Cross Validation)
+  4. [모델 평가(Cross Validation)](https://blog.naver.com/woukl22/222451548001) (*학습 날짜: 2021.07.30*)
 <br>
 
 **AI Learning 08: AI 중급 4. 학습 기법 및 종합평가**
