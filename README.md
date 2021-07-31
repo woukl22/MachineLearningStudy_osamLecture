@@ -92,8 +92,8 @@
 <br>
 
 **AI Learning 08: AI 중급 4. 학습 기법 및 종합평가**
-  1. 모델 학습 2(Decision Tree)
-  2. 모델 학습 3(Boosting)
+  1. [모델 학습 2(Decision Tree)](https://blog.naver.com/woukl22/222452130276) (*학습 날짜: 2021.07.31*)
+  2. [모델 학습 3(Boosting)](https://blog.naver.com/woukl22/222452158113) (*학습 날짜: 2021.07.31*)
   3. 모델 종합 평가(Model Summary)
 <br>
 
