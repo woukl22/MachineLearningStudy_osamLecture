@@ -122,6 +122,21 @@
 **AI Learning 12: AI 고급 4. 현업에서의 프로젝트**
   (제작중)
  <br><br>
+ 
+
+사전테스트
+---
+1. Training set과 test set을 왜 나누는지 설명할 수 있다. (Y/N)
+2. Unsupervised learning과 supervised learning의 차이점을 설명할 수 있다. (Y/N)
+3. Hyperparameter의 종류로는 어떤 것들이 있는지 알고 있다. (Y/N)
+4. Vanilla RNN과 LSTM의 차이를 설명할 수 있다. (Y/N)
+5. Decision tree에서 언제까지 depth가 깊어지는지 설명할 수 있다. (Y/N)
+6. XGBoost가 Random Forest와 비교했을 때 가지는 단점을 이야기할 수 있다. (Y/N)
+7. Data 전처리에서 min max scaling는 어떻게 하는지 설명할 수 있다. (Y/N)
+8. Overfitting을 방지하는 방법을 2가지 이상 알고 있다. (Y/N)
+9. Activation function의 종류를 3가지 이상 알고 있다. (Y/N)
+10. Bias와 variance의 차이를 알고 있다. (Y/N)
+<br><br>
 
 공부하면서 읽은 AI 관련 책
 ---
