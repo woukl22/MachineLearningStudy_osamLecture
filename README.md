@@ -99,7 +99,7 @@
 <br>
 
 **AI Learning 09: AI 고급 1. 모델 학습 심화**
-  1. Hyperparameter Tuning
+  1. [Hyperparameter Tuning](https://blog.naver.com/woukl22/222453154297) (*학습 날짜: 2021.08.01*)
   2. Model Stacking 1
   3. Model Stacking 2
   4. Model Quantization
