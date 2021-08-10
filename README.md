@@ -29,7 +29,7 @@
 - AI 고급 4. 현업에서의 프로젝트
 - AI 고급 3. 서비스 배포
 - AI 고급 2. 모델 배포 준비
-- AI 고급 1. 모델 학습 심화
+- ~~AI 고급 1. 모델 학습 심화~~
 - ~~AI 중급 4.학습 기법 및 종합평가~~
 - ~~AI 중급 3.모델 학습 및 평가~~
 - ~~AI 중급 2.데이터분석및전처리~~
@@ -100,15 +100,15 @@
 
 **AI Learning 09: AI 고급 1. 모델 학습 심화**
   1. [Hyperparameter Tuning](https://blog.naver.com/woukl22/222453154297) (*학습 날짜: 2021.08.01*)
-  2. Model Stacking 1
-  3. Model Stacking 2
-  4. Model Quantization
+  2. [Model Stacking 1](https://blog.naver.com/woukl22/222464124600) (*학습 날짜: 2021.08.10*)
+  3. [Model Stacking 2](https://blog.naver.com/woukl22/222464210136) (*학습 날짜: 2021.08.10*)
+  4. [Model Quantization](https://blog.naver.com/woukl22/222464540875) (*학습 날짜: 2021.08.10*)
 <br>
 
 **AI Learning 10: AI 고급 2. 모델 배포 준비**
-  1. ML 모델 배포 방식과 REST API에 대한 이해
-  2. Colab에서 Flask를 활용한 REST API 사용하기
-  3. 요청 페이지 개발
+  1. [ML 모델 배포 방식과 REST API에 대한 이해](https://blog.naver.com/woukl22/222464718116) (*학습 날짜: 2021.08.10*)
+  2. [Colab에서 Flask를 활용한 REST API 사용하기](https://blog.naver.com/woukl22/222465040587) (*학습 날짜: 2021.08.11*)
+  3. [요청 페이지 개발](https://blog.naver.com/woukl22/222465192333) (*학습 날짜: 2021.08.11*)
   4. 응답을 위한 MLP 모델 학습
   5. 응답 API 개발 - 데이터 전처리, 모델 예측
 <br>
@@ -120,7 +120,9 @@
 <br>
 
 **AI Learning 12: AI 고급 4. 현업에서의 프로젝트**
-  (제작중)
+  1. 현업에서의 ML 프로젝트 1
+  2. 현업에서의 ML 프로젝트 2
+  3. 현업에서의 ML 프로젝트 3
  <br><br>
  
 
