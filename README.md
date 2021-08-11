@@ -21,12 +21,12 @@
 <br>
 ### 필수 이수 과목<br>
 **공통과정**
-- Git 소개 및 GitHub 입문
-- 공개SW 라이선스 알아보기
-- 공개SW의 이해
+- ~~Git 소개 및 GitHub 입문~~
+- ~~공개SW 라이선스 알아보기~~
+- ~~공개SW의 이해~~
 
 **해커톤필수과정_인공지능분야**
-- AI 고급 4. 현업에서의 프로젝트
+- ~~AI 고급 4. 현업에서의 프로젝트~~
 - ~~AI 고급 3. 서비스 배포~~
 - ~~AI 고급 2. 모델 배포 준비~~
 - ~~AI 고급 1. 모델 학습 심화~~
@@ -45,85 +45,88 @@
 강의 목록 및 진행상황
 ----
 **AI Learning 01: 머신러닝/딥러닝 개념**
-  1. [머신러닝의 개념](https://blog.naver.com/woukl22/222431616337) (*학습 날짜: 2021.07.14*)
-  2. [Training set과 Test set](https://blog.naver.com/woukl22/222431628757) (*학습 날짜: 2021.07.14*)
+  1. 머신러닝의 개념 (*학습 날짜: 2021.07.14*)
+  2. Training set과 Test set (*학습 날짜: 2021.07.14*)
 <br>
 
 **AI Learning 02: 머신러닝 모델 구현**
-  1. [Linear Regression](https://blog.naver.com/woukl22/222431889373) (*학습 날짜: 2021.07.14*)
-  2. [Non-linear Regression](https://blog.naver.com/woukl22/222433040162) (*학습 날짜: 2021.07.15*)
-  3. [Linear Classification](https://blog.naver.com/woukl22/222433042321) (*학습 날짜: 2021.07.15*)
-  4. [Non-linear Classification](https://blog.naver.com/woukl22/222433071787) (*학습 날짜: 2021.07.15*)
-  5. [Unsupervised Learning의 개념](https://blog.naver.com/woukl22/222433119816) (*학습 날짜: 2021.07.15*)
-  6. [Autoencoders](https://blog.naver.com/woukl22/222434022266) (*학습 날짜: 2021.07.16*)
+  1. Linear Regression (*학습 날짜: 2021.07.14*)
+  2. Non-linear Regression (*학습 날짜: 2021.07.15*)
+  3. Linear Classification (*학습 날짜: 2021.07.15*)
+  4. Non-linear Classification (*학습 날짜: 2021.07.15*)
+  5. Unsupervised Learning의 개념 (*학습 날짜: 2021.07.15*)
+  6. Autoencoders (*학습 날짜: 2021.07.16*)
 <br>
 
 **AI Learning 03: 딥러닝 테크닉**
-  1. [Hyperparameter tuning](https://blog.naver.com/woukl22/222435268179) (*학습 날짜: 2021.07.16~2021.07.17*)
-  2. [Overfitting 피하기](https://blog.naver.com/woukl22/222435376389) (*학습 날짜: 2021.07.17*)
-  3. [Weight initialization](https://blog.naver.com/woukl22/222436149257) (*학습 날짜: 2021.07.18*)
+  1. Hyperparameter tuning (*학습 날짜: 2021.07.16~2021.07.17*)
+  2. Overfitting 피하기 (*학습 날짜: 2021.07.17*)
+  3. Weight initialization (*학습 날짜: 2021.07.18*)
 <br>
 
 **AI Learning 04: CNN, RNN 원리**
-  1. [CNN의 개념](https://blog.naver.com/woukl22/222436413699) (*학습 날짜: 2021.07.18*)
-  2. [CNN의 응용: Image classification](https://blog.naver.com/woukl22/222436910927) (*학습 날짜: 2021.07.19*)
-  3. [RNN의 개념](https://blog.naver.com/woukl22/222438153778) (*학습 날짜: 2021.07.20*)
-  4. [RNN의 응용: 글자 예측](https://blog.naver.com/woukl22/222438899658) (*학습 날짜: 2021.07.20*)
+  1. CNN의 개념 (*학습 날짜: 2021.07.18*)
+  2. CNN의 응용: Image classification (*학습 날짜: 2021.07.19*)
+  3. RNN의 개념 (*학습 날짜: 2021.07.20*)
+  4. RNN의 응용: 글자 예측 (*학습 날짜: 2021.07.20*)
 <br>
 
 **AI Learning 05: AI 중급 1. 예측 모델 소개**
-  1. [강의 및 Dataset 소개](https://blog.naver.com/woukl22/222446677048) (*학습 날짜: 2021.07.26*)
-  2. [MLP(Multi-Layer Perception)](https://blog.naver.com/woukl22/222447084832) (*학습 날짜: 2021.07.27*)
-  3. [Decision Tree](https://blog.naver.com/woukl22/222447850435) (*학습 날짜: 2021.07.27*)
-  4. [Random Forest](https://blog.naver.com/woukl22/222447892923) (*학습 날짜: 2021.07.27*)
-  5. [Boosting](https://blog.naver.com/woukl22/222448239825) (*학습 날짜: 2021.07.27~2021.07.28*)
-  6. [ML model deployment](https://blog.naver.com/woukl22/222448303933) (*학습 날짜: 2021.07.28*)
+  1. [강의 및 Dataset 소개](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning05/1_%EA%B0%95%EC%9D%98%20%EB%B0%8F%20Dataset%20%EC%86%8C%EA%B0%9C.ipynb) (*학습 날짜: 2021.07.26*)
+  2. [MLP(Multi-Layer Perception)](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning05/2_MLP(Multi-Layer%20Perception).ipynb) (*학습 날짜: 2021.07.27*)
+  3. [Decision Tree](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning05/3_Decision%20Tree.ipynb) (*학습 날짜: 2021.07.27*)
+  4. [Random Forest](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning05/4_Random%20Forest.ipynb) (*학습 날짜: 2021.07.27*)
+  5. [Boosting](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning05/5_Boosting.ipynb) (*학습 날짜: 2021.07.27~2021.07.28*)
+  6. ML model deployment (*학습 날짜: 2021.07.28*)
 <br>
 
 **AI Learning 06: AI 중급 2. 데이터 분석 및 전처리**
-  1. [EDA(Exploratory Data Analysis)](https://blog.naver.com/woukl22/222449071067) (*학습 날짜: 2021.07.28*)
-  2. [데이터 전처리](https://blog.naver.com/woukl22/222449512373) (*학습 날짜: 2021.07.28~2021.07.29*)
+  1. [EDA(Exploratory Data Analysis)](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning06/1_EDA(Exploratory%20Data%20Analysis).ipynb) (*학습 날짜: 2021.07.28*)
+  2. [데이터 전처리](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning06/2_Data%20Preprocessing.ipynb) (*학습 날짜: 2021.07.28~2021.07.29*)
 <br>
 
 **AI Learning 07: AI 중급 3. 모델 학습 및 평가**
-  1. [Linear Regression](https://blog.naver.com/woukl22/222449976231) (*학습 날짜: 2021.07.29*)
-  2. [모델 학습 1(MLP training(1))](https://blog.naver.com/woukl22/222450211480) (*학습 날짜: 2021.07.29*)
-  3. [모델 학습 1(MLP training(2))](https://blog.naver.com/woukl22/222451228398) (*학습 날짜: 2021.07.29~2021.07.30*)
-  4. [모델 평가(Cross Validation)](https://blog.naver.com/woukl22/222451548001) (*학습 날짜: 2021.07.30*)
+  1. [Linear Regression](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning07/1_Linear%20Regression.ipynb) (*학습 날짜: 2021.07.29*)
+  2. [모델 학습 1(MLP training(1))](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning07/2_MLP%20training(1).ipynb) (*학습 날짜: 2021.07.29*)
+  3. 모델 학습 1(MLP training(2)) (*학습 날짜: 2021.07.29~2021.07.30*)
+  4. [모델 평가(Cross Validation)](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning07/4_Cross%20Validation.ipynb) (*학습 날짜: 2021.07.30*)
 <br>
 
 **AI Learning 08: AI 중급 4. 학습 기법 및 종합평가**
-  1. [모델 학습 2(Decision Tree)](https://blog.naver.com/woukl22/222452130276) (*학습 날짜: 2021.07.31*)
-  2. [모델 학습 3(Boosting)](https://blog.naver.com/woukl22/222452158113) (*학습 날짜: 2021.07.31*)
-  3. [모델 종합 평가(Model Summary)](https://blog.naver.com/woukl22/222452663777) (*학습 날짜: 2021.07.31*)
+  1. [모델 학습 2(Decision Tree)](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning08/1_Decision%20Tree.ipynb) (*학습 날짜: 2021.07.31*)
+  2. [모델 학습 3(Boosting)](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning08/2_Boosting.ipynb) (*학습 날짜: 2021.07.31*)
+  3. [모델 종합 평가(Model Summary)](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning08/3_Model%20Summary.ipynb) (*학습 날짜: 2021.07.31*)
 <br>
 
 **AI Learning 09: AI 고급 1. 모델 학습 심화**
-  1. [Hyperparameter Tuning](https://blog.naver.com/woukl22/222453154297) (*학습 날짜: 2021.08.01*)
-  2. [Model Stacking 1](https://blog.naver.com/woukl22/222464124600) (*학습 날짜: 2021.08.10*)
-  3. [Model Stacking 2](https://blog.naver.com/woukl22/222464210136) (*학습 날짜: 2021.08.10*)
-  4. [Model Quantization](https://blog.naver.com/woukl22/222464540875) (*학습 날짜: 2021.08.10*)
+  1. [Hyperparameter Tuning](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning09/1_Hyperparameter%20Tuning.ipynb) (*학습 날짜: 2021.08.01*)
+  2. [Model Stacking 1](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning09/2_Model%20Stacking%201.ipynb) (*학습 날짜: 2021.08.10*)
+  3. [Model Stacking 2](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning09/3_Model%20Stacking%202.ipynb) (*학습 날짜: 2021.08.10*)
+  4. [Model Quantization](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning09/4_Model%20Quantization.ipynb) (*학습 날짜: 2021.08.10*)
 <br>
 
 **AI Learning 10: AI 고급 2. 모델 배포 준비**
-  1. [ML 모델 배포 방식과 REST API에 대한 이해](https://blog.naver.com/woukl22/222464718116) (*학습 날짜: 2021.08.10*)
-  2. [Colab에서 Flask를 활용한 REST API 사용하기](https://blog.naver.com/woukl22/222465040587) (*학습 날짜: 2021.08.11*)
-  3. [요청 페이지 개발](https://blog.naver.com/woukl22/222465192333) (*학습 날짜: 2021.08.11*)
-  4. [응답을 위한 MLP 모델 학습](https://blog.naver.com/woukl22/222465533208) (*학습 날짜: 2021.08.11*)
-  5. [응답 API 개발 - 데이터 전처리, 모델 예측](https://blog.naver.com/woukl22/222465570597) (*학습 날짜: 2021.08.11*)
+  1. ML 모델 배포 방식과 REST API에 대한 이해 (*학습 날짜: 2021.08.10*)
+  2. [Colab에서 Flask를 활용한 REST API 사용하기](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning10/2_Flask%26Ngrok.ipynb) (*학습 날짜: 2021.08.11*)
+  3. [요청 페이지 개발](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning10/3_Page%20develop.ipynb) (*학습 날짜: 2021.08.11*)
+  4. [응답을 위한 MLP 모델 학습](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning10/4_Flask%20MLP.ipynb) (*학습 날짜: 2021.08.11*)
+  5. [응답 API 개발 - 데이터 전처리, 모델 예측](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning10/5_preprocess%26predict.ipynb) (*학습 날짜: 2021.08.11*)
+      - [X.csv](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning10/X.csv)
+      - [y.npy](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning10/y.npy)
+      - [mlp_v0.1.h5](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning10/mlp_v0.1.h5)
+      - [submit_form.html](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning10/submit_form.html)
 <br>
 
 **AI Learning 11: AI 고급 3. 서비스 배포**
-  1. [ML 서비스 배포하기 1](https://blog.naver.com/woukl22/222465721271) (*학습 날짜: 2021.08.11*)
-  2. [ML 서비스 배포하기 2 - Git](https://blog.naver.com/woukl22/222465851379) (*학습 날짜: 2021.08.11*)
-     - github: [house-price-web-server](https://github.com/woukl22/house-price-web-server)
-  3. [ML 서비스 배포하기 3 - Docker](https://blog.naver.com/woukl22/222465958333) (*학습 날짜: 2021.08.11*)
+  1. [ML 서비스 배포하기 1](https://github.com/woukl22/MachineLearningStudy_osamLecture/blob/main/AILearning11/Flask-app.zip) (*학습 날짜: 2021.08.11*)
+  2. [ML 서비스 배포하기 2 - Git](https://github.com/woukl22/house-price-web-server) (*학습 날짜: 2021.08.11*)
+  3. ML 서비스 배포하기 3 - Docker (*학습 날짜: 2021.08.11*)
 <br>
 
 **AI Learning 12: AI 고급 4. 현업에서의 프로젝트**
-  1. 현업에서의 ML 프로젝트 1
-  2. 현업에서의 ML 프로젝트 2
-  3. 현업에서의 ML 프로젝트 3
+  1. 현업에서의 ML 프로젝트 1 (*학습 날짜: 2021.08.12*)
+  2. 현업에서의 ML 프로젝트 2 (*학습 날짜: 2021.08.12*)
+  3. 현업에서의 ML 프로젝트 3 (*학습 날짜: 2021.08.12*)
  <br><br>
  
 
@@ -143,7 +146,7 @@
 
 공부하면서 읽은 AI 관련 책
 ---
-1. **인공지능과 딥러닝** *(마쓰오 유타카 / 동아엠앤비)*<br>
+1. **[인공지능과 딥러닝](https://blog.naver.com/woukl22/222466271369)** *(마쓰오 유타카 / 동아엠앤비)*<br>
   <img src="https://user-images.githubusercontent.com/69896250/125956678-d731c85b-98e7-4a3b-a12c-492ed51f65c1.jpeg" width="200px" height="290px"></img><br>
   2021.07.15 ~ 2021.07.20
 
