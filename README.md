@@ -27,8 +27,8 @@
 
 **해커톤필수과정_인공지능분야**
 - AI 고급 4. 현업에서의 프로젝트
-- AI 고급 3. 서비스 배포
-- AI 고급 2. 모델 배포 준비
+- ~~AI 고급 3. 서비스 배포~~
+- ~~AI 고급 2. 모델 배포 준비~~
 - ~~AI 고급 1. 모델 학습 심화~~
 - ~~AI 중급 4.학습 기법 및 종합평가~~
 - ~~AI 중급 3.모델 학습 및 평가~~
@@ -109,14 +109,15 @@
   1. [ML 모델 배포 방식과 REST API에 대한 이해](https://blog.naver.com/woukl22/222464718116) (*학습 날짜: 2021.08.10*)
   2. [Colab에서 Flask를 활용한 REST API 사용하기](https://blog.naver.com/woukl22/222465040587) (*학습 날짜: 2021.08.11*)
   3. [요청 페이지 개발](https://blog.naver.com/woukl22/222465192333) (*학습 날짜: 2021.08.11*)
-  4. 응답을 위한 MLP 모델 학습
-  5. 응답 API 개발 - 데이터 전처리, 모델 예측
+  4. [응답을 위한 MLP 모델 학습](https://blog.naver.com/woukl22/222465533208) (*학습 날짜: 2021.08.11*)
+  5. [응답 API 개발 - 데이터 전처리, 모델 예측](https://blog.naver.com/woukl22/222465570597) (*학습 날짜: 2021.08.11*)
 <br>
 
 **AI Learning 11: AI 고급 3. 서비스 배포**
-  1. ML 서비스 배포하기 1
-  2. ML 서비스 배포하기 2 - Git
-  3. ML 서비스 배포하기 3 - Docker
+  1. [ML 서비스 배포하기 1](https://blog.naver.com/woukl22/222465721271) (*학습 날짜: 2021.08.11*)
+  2. [ML 서비스 배포하기 2 - Git](https://blog.naver.com/woukl22/222465851379) (*학습 날짜: 2021.08.11*)
+     - github: [house-price-web-server](https://github.com/woukl22/house-price-web-server)
+  3. [ML 서비스 배포하기 3 - Docker](https://blog.naver.com/woukl22/222465958333) (*학습 날짜: 2021.08.11*)
 <br>
 
 **AI Learning 12: AI 고급 4. 현업에서의 프로젝트**
