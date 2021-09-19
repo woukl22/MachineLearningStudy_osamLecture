@@ -165,7 +165,7 @@
   <img src="https://user-images.githubusercontent.com/69896250/126332650-f41658e2-caf3-444d-8a58-575f383755ec.png" width="200px" height="290px"></img><br>
   2021.07.20 ~
 
-3. **인공지능을 위한 수학** *(이시카와 아키히코 / 프리렉)*<br>
+3. **[인공지능을 위한 수학](https://blog.naver.com/woukl22/222503292332)** *(이시카와 아키히코 / 프리렉)*<br>
   <img src="https://user-images.githubusercontent.com/69896250/131207228-56f4d5a7-7808-4b2f-9445-0d871435003b.png" width="280px" height="290px"></img><br>
   2021.08.15 ~ 2021.08.25
 <br><br>
